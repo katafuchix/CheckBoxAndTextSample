@@ -32,7 +32,7 @@ class ViewController: UIViewController {
             self.checkBoxValid.accept(!checkBoxValid.value)
         }).disposed(by: rx.disposeBag)
         
-        // チェックがある時のみ個数編集を有効にする
+        // チェックがある時のみテキスト編集を有効にする
         self.checkBoxValid.bind(to: self.textField.rx.isEnabled).disposed(by: rx.disposeBag)
     }
 
