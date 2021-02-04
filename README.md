@@ -1,5 +1,6 @@
 # CheckBoxAndTextSample
-
-<img src="https://user-images.githubusercontent.com/6063541/106838239-3ea9fd00-66df-11eb-977a-59a28829e404.png" width="250" >
-
-<img src="https://user-images.githubusercontent.com/6063541/106838248-423d8400-66df-11eb-8a4d-f0c390a1f326.png" width="250" >
+<div>
+<img width="250" alt="スクリーンショット 2021-02-04 11 52 13" src="https://user-images.githubusercontent.com/6063541/106838370-7ca72100-66df-11eb-8eae-3b337e26b8b7.png">
+<img width="250" alt="スクリーンショット 2021-02-04 11 52 19" src="https://user-images.githubusercontent.com/6063541/106838383-803aa800-66df-11eb-9a76-58f57ab7d502.png">
+ </div>
+  
